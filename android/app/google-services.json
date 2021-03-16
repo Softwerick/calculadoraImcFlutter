@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21675862791",
+    "project_id": "calculadora-imc-bcf6e",
+    "storage_bucket": "calculadora-imc-bcf6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21675862791:android:dd4fe36379a18a0cfd33a2",
+        "android_client_info": {
+          "package_name": "br.com.bsi.calculadora_imc.calculadora_imc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21675862791-cktsqe62l520qdr3km9tsms4i5ulg96n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfalZmi7Cq5hzt9XNBwvCHAKeZ5fU8fI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21675862791-cktsqe62l520qdr3km9tsms4i5ulg96n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
